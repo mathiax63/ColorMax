@@ -1,0 +1,47 @@
+.divColor{  
+    height: 200px;
+    align-items: center;
+    flex-direction: column-reverse;
+    display: flex;
+     
+  
+}
+#divDeColores{
+align-items: center;
+width: 60%;
+text-align: center;
+display: flex;
+margin: 50px;
+margin-left: 20%;
+margin-bottom: 40px;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+body{
+    background-color: #4040ff ;
+}
+.divMayor{
+    background-color: white;
+    align-items: center;
+
+}
+.p{
+    color: white;
+}
+.divAleatoreo{
+    height: 200px;
+    align-items: center;
+width: 60%;
+text-align: center;
+display: flex;
+margin: 50px;
+margin-left: 20%;
+margin-bottom: 40px;
+}
+.footerSection{
+    display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+}

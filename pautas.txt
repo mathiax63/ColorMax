@@ -1,0 +1,12 @@
+Tómese todo el tiempo que desee, pero si va a demorar más de una semana, háganoslo saber.
+
+Utilice cualquier lenguaje o tecnología que desee y entregue el código fuente (no un ejecutable) por cualquier medio que desee.
+Siéntase libre de elegir un área de enfoque si cree que mostrará mejor sus habilidades.
+
+Nos gustaría que nos escribiera un programa que:
+Genera códigos de color hexadecimales de 8 dígitos (ARGB);
+
+Las reglas son las siguientes:
+1. Cada vez que ejecute el programa, debe emitir un código de color hexadecimal de 8 dígitos;
+2. Debe emitir todos los códigos posibles antes de repetir;
+3. No debe imprimir códigos "extraños" como 0xAAAAAAAA o 0x01234567 o cualquier palabra, frase o lenguaje hexadecimal de uso común como 0xDEADBEEF;  
