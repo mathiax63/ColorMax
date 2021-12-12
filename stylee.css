@@ -1,12 +1,19 @@
 .divColor{  
-    height: 200px;
-    align-items: center;
+   
+   
     flex-direction: column-reverse;
     display: flex;
+    padding: 5px;
+    margin: 10px;
      
   
 }
+h2{
+    margin: 15px;
+    text-align: center;
+}
 #divDeColores{
+    height: 200px;
 align-items: center;
 width: 60%;
 text-align: center;
@@ -25,10 +32,13 @@ body{
 .divMayor{
     background-color: white;
     align-items: center;
+    margin: 30px 50px;
+    padding: 5%;
 
 }
 .p{
-    color: white;
+    margin: 30px
+  
 }
 .divAleatoreo{
     height: 200px;
@@ -44,4 +54,7 @@ margin-bottom: 40px;
     display: flex;
         justify-content: space-around;
         flex-wrap: wrap;
+}
+.dosP{
+    display: flex;
 }
