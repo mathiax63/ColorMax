@@ -103,8 +103,10 @@ pColor.innerHTML= coloresNombres[0]
   
  let colorAleatoreo = document.getElementById("divDeAleatoreo")
  let sumaConLasP = document.getElementById("pSumaDeAmbos")
- colorAleatoreo.style.backgroundColor = numeroAlAzar(8);
- sumaConLasP.innerHTML = "El color rgb que esta viendo es: " + numeroAlAzar(8)
+ let suma = numeroAlAzar(8)
+ colorAleatoreo.style.backgroundColor = suma;
+ sumaConLasP.innerHTML =  suma
+ sumaConLasP.style.color = suma
      
 }
     
