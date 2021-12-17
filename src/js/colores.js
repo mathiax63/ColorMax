@@ -82,7 +82,7 @@ pColor.innerHTML= coloresNombres[0]
  
 
  function numeroAlAzar(numero){
-   const caracteresDeLosColores = "FDEBAC1234567890"
+   const caracteresDeLosColores = "FfDdEeBbAaCc1234567890"
    let resultado = ""
    const caracteresDeLosColoresContados = caracteresDeLosColores.length; 
    let asterisco = "#"
