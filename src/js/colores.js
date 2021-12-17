@@ -104,6 +104,12 @@ pColor.innerHTML= coloresNombres[0]
  let colorAleatoreo = document.getElementById("divDeAleatoreo")
  let sumaConLasP = document.getElementById("pSumaDeAmbos")
  let suma = numeroAlAzar(8)
+ /*if(suma.style === null){
+  colorAleatoreo.style.backgroundColor = "#000000";
+  sumaConLasP.innerHTML =  "#000000"
+  sumaConLasP.style.color ="#000000"
+
+ }*/
  colorAleatoreo.style.backgroundColor = suma;
  sumaConLasP.innerHTML =  suma
  sumaConLasP.style.color = suma
