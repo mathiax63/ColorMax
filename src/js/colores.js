@@ -12,6 +12,8 @@ window.addEventListener("load", function () {
  colores[7] =  "#CC3300"
  colores[8] =  "#FF6666"
  colores[9] = "#FFF56199"
+ //
+ 
 
  let coloresNombres = []
  coloresNombres[0] =""
